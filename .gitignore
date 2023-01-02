@@ -1,0 +1,5 @@
+node_modules/
+initApp/node_modules/
+dist/
+initApp/dist/
+.parcel-cache
