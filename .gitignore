@@ -3,3 +3,5 @@ initApp/node_modules/
 dist/
 initApp/dist/
 .parcel-cache
+.node_modules
+.dist

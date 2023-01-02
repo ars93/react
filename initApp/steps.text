@@ -1,0 +1,20 @@
+1) create emmet html boiler plate in index.html
+2) create app.js file 
+3) npm init 
+4) npm i react
+5) npm i react-dom
+6) npm i -D parcel
+7) import react react
+add following code in app.js 
+import React from "react";
+import ReactDOM from "react-dom/client";
+8)crate React.CreateElement h1
+use following code 
+const heaading = React.createElement("h1", { id: "title", key: "h1" }, "Hello All");
+9) craete reactDom.creatRoot
+follwing code 
+const root = ReactDOM.createRoot(document.getElementById("root"));
+10)and lastly render
+root.render(heaading);
+11)run using the bunder parcel
+npx parcel index.html
