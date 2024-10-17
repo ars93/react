@@ -5,3 +5,5 @@ initApp/dist/
 .parcel-cache
 .node_modules
 .dist
+redux-counter/node_modules/
+redux-oldway-counter/node_modules
